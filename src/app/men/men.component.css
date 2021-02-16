@@ -1,0 +1,6 @@
+.shoes-container{
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 1800px;
+  padding-left: 80px;
+}
